@@ -4,7 +4,7 @@
 
 ### :small_blue_diamond: Training an image classifier via PyTorch
 This is an implement of official example provided on PyTorch official website.
-You can refer to the tutorial [here](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html).
+You can refer to the official tutorial [here](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html).
 
 For this project, we will use the CIFAR10 dataset which has 10 classes:
 
@@ -12,7 +12,7 @@ For this project, we will use the CIFAR10 dataset which has 10 classes:
 
 
 
-The images in CIFAR-10 are of size 3x32x32, i.e. 3-channel color images of 32x32 pixels in size.
+The images in CIFAR-10 dataset are of size 3x32x32, i.e. 3-channel color images of 32x32 pixels in size.
 
 
 ![image](https://github.com/rachelpeichen/PyTorch_CIFAR10/blob/main/Images%20for%20README/Predicted.png)
@@ -23,7 +23,7 @@ The images in CIFAR-10 are of size 3x32x32, i.e. 3-channel color images of 32x32
 
 2. Define a Convolutional Neural Network
 
-3. Define a loss function
+3. Define a loss function and an optimizer
 
 4. Train the network on the training data
 
