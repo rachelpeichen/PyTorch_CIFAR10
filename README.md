@@ -1,6 +1,6 @@
 ## PyTorch_CIFAR10
 
-:sunglasses: *Note: this project was originated to be a sharing to my lab partners. If you're interested, you can refer to my [slide]().*
+:sunglasses: *Note: this project was originated to be a sharing to my lab partners. If you're interested, you can refer to my [slide](https://github.com/rachelpeichen/PyTorch_CIFAR10/blob/main/Implement%20of%20CNN%20via%20PyToch.pdf).*
 
 ### :small_blue_diamond: Training an image classifier via PyTorch
 This is an implement of official example provided on PyTorch official website.
