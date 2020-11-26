@@ -11,7 +11,11 @@ For this project, we will use the CIFAR10 dataset which has 10 classes:
 ![image](https://github.com/rachelpeichen/PyTorch_CIFAR10/blob/main/Images%20for%20README/CIFAR10.png)
 
 
+
 The images in CIFAR-10 are of size 3x32x32, i.e. 3-channel color images of 32x32 pixels in size.
+
+
+![image](https://github.com/rachelpeichen/PyTorch_CIFAR10/blob/main/Images%20for%20README/Predicted.png)
 
 ### :small_blue_diamond: The implement steps in order:
 
